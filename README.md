@@ -18,6 +18,8 @@
 <img width="6%" title="Pytest" src="logo/pytest.svg">
 <img width="6%" title="Selenium" src="logo/selenium.png">
 <img width="6%" title="Selene" src="logo/selene.png">
+<img width="6%" title="Requests" src="logo/requests.png">
+<img width="6%" title="REST" src="logo/rest-assured-logo.svg">
 <img width="6%" title="Selenoid" src="logo/Selenoid.svg">
 <img width="6%" title="GitHub" src="logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="logo/Jenkins.svg">  
@@ -25,5 +27,6 @@
 <img width="6%" title="AllureTestOPS" src="logo/Allure_TO.svg"> 
 <img width="6%" title="Telegram" src="logo/Telegram.svg">  
 <img width="6%" title="Jira" src="logo/jira.svg"> 
+<img width="6%" title="Browserstack" src="logo/Browserstack.svg"> 
 </p>
 
