@@ -10,6 +10,4 @@
 
 <a href="https://github.com/aniuzukowska/java_api_reqres" target="_blank">Проект автоматизации тестирования API для сервиса REQRES.IN</a>
 
-<a href="https://github.com/aniuzukowska/wikipedia_mobile" target="_blank">Проект автоматизации тестирования мобильного приложения Wikipedia</a>
-
 
